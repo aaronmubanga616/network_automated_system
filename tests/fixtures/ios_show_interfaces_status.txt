@@ -1,0 +1,5 @@
+Port      Name               Status       Vlan       Duplex  Speed Type
+Gi0/1     user-facing port   connected    10         a-full  a-1000 10/100/1000BaseTX
+Gi0/2                        notconnect   1          auto    auto 10/100/1000BaseTX
+Gi0/3     uplink             connected    trunk      a-full  a-1000 10/100/1000BaseTX
+Gi0/4     disabled port      err-disabled 20         auto    auto 10/100/1000BaseTX

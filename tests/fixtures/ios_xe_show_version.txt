@@ -1,0 +1,7 @@
+Cisco IOS XE Software, Version 17.03.05
+Cisco IOS Software [Amsterdam], Virtual XE Software (X86_64_LINUX_IOSD-UNIVERSALK9-M), Version 17.3.5, RELEASE SOFTWARE (fc3)
+lab-switch uptime is 1 year, 2 weeks, 1 day, 1 hour, 1 minute
+System image file is "bootflash:packages.conf"
+cisco C8000V (VXE) processor with 2031168K/3075K bytes of memory.
+Processor board ID LAB87654321
+Configuration register is 0x2102

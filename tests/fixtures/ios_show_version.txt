@@ -1,0 +1,8 @@
+Cisco IOS Software, 7200 Software (C7200-ADVENTERPRISEK9-M), Version 15.2(4)M11, RELEASE SOFTWARE (fc2)
+ROM: System Bootstrap, Version 12.4(13r)T, RELEASE SOFTWARE (fc1)
+lab-router uptime is 2 weeks, 3 days, 4 hours, 5 minutes
+System returned to ROM by reload
+System image file is "disk0:c7200-adventerprisek9-mz.bin"
+cisco 7206VXR (NPE400) processor with 491520K/32768K bytes of memory.
+Processor board ID LAB12345678
+Configuration register is 0x2102

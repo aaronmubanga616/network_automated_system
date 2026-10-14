@@ -1,0 +1,11 @@
+Codes: L - local, C - connected, S - static, O - OSPF
+Gateway of last resort is 192.0.2.254 to network 0.0.0.0
+
+      10.0.0.0/24 is subnetted, 2 subnets
+C        10.0.0.0 is directly connected, GigabitEthernet0/2
+O        10.0.1.0 [110/2] via 192.0.2.2, 00:02:15, GigabitEthernet0/0
+O     198.51.100.0/24
+           [110/20] via 192.0.2.2, 00:00:30, GigabitEthernet0/0
+           [110/20] via 192.0.2.3, 00:00:30, GigabitEthernet0/0
+S*    0.0.0.0/0 [1/0] via 192.0.2.254
+L     192.0.2.1/32 is directly connected, GigabitEthernet0/0
