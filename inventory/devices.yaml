@@ -1,0 +1,12 @@
+# Example GNS3 management addresses: replace with reachable lab addresses.
+# Credentials belong in environment variables, never in this file.
+devices:
+  - name: R1
+    host: 192.168.56.101
+    device_type: cisco_ios
+    port: 22
+
+  - name: SW1
+    host: 192.168.56.102
+    device_type: cisco_ios
+    port: 22
