@@ -1,0 +1,31 @@
+# Credentials and local environment settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Virtual environments and Python build/cache files
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Generated output (may contain sensitive device configuration)
+logs/
+*.log
+backups/
+reports/
+
+# Editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

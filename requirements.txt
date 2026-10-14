@@ -1,0 +1,5 @@
+netmiko>=4.7,<5
+ntc-templates>=9,<10
+PyYAML>=6,<7
+python-dotenv>=1,<2
+rich>=13,<15
